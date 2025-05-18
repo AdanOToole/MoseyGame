@@ -1,0 +1,4 @@
+repository "MoseyGame/MoseyGame@1374715381433@cloud"
+  path "/"
+    br "/main"
+    co "/main"
